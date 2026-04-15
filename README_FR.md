@@ -1,4 +1,4 @@
-🌍 [Read in English](README.md) | 📓 [See PDF](./RobinRubangura_Recommendation_Systems.ipynb)
+🌍 [Read in English](README.md) | 📓 [Voir PDF](./RobinRubangura_Recommendation_Systems.ipynb)
 
 # Système de recommendations de films
 
